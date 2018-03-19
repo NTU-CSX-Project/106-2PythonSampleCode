@@ -17,6 +17,7 @@
 | 03/01  |  1   | https://github.com/NTU-CSX-Project/106-2PythonSampleCode/tree/master/week_1 |
 | 03/08  |  2   | https://github.com/NTU-CSX-Project/106-2PythonSampleCode/tree/master/week_2 |
 | 03/15  |  3   | https://github.com/NTU-CSX-Project/106-2PythonSampleCode/tree/master/week_3 |
+| 03/22  |  4   | https://github.com/NTU-CSX-Project/106-2PythonSampleCode/tree/master/week_4 |
 | 03/29  |  5   | https://github.com/NTU-CSX-Project/106-2PythonSampleCode/tree/master/week_5 |
 | 04/05  |  6   | https://github.com/NTU-CSX-Project/106-2PythonSampleCode/tree/master/week_6 |
 | 04/12  |  7   | https://github.com/NTU-CSX-Project/106-2PythonSampleCode/tree/master/week_7 |
