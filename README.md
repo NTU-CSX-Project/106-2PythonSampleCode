@@ -8,6 +8,10 @@
 - [進階軟體開發專題GitHub](https://github.com/NTU-CSX-Project/106-2PythonSampleCode)
 - [91app資料集](https://drive.google.com/drive/folders/1g7Q81jHDXpJcWdhJEDl8h_wS_XmODgiB?usp=sharing)
 
+- 修課名單：
+
+  [邱千芷](https://github.com/JessieChiu/CSXSpring2018_Python)、[劉倢如](https://github.com/janeru/b3801053csx)、[郭芛宏](https://github.com/s972301/Programming)、[陳昭和](https://github.com/chenshowa/Showa_CsxPython)、[何廣雷](https://github.com/KungRayHo/python_project)、[陳祈廷](https://github.com/rt6972177/106-2)、[王志明](https://github.com/cmengwong/STASD)、[林永祥](https://github.com/andylinpersonal/CSX_Project_2018S)、[連　鑫](https://github.com/liansin/Class_CSX)、[蕭啟軒](https://github.com/superAwhite/CSX_course)、[李其諺](https://github.com/sopper08/NTU-CSX-Project)、劉宏毅
+
 | Date   | W    | Link                                                           |
 | --:    | --   | --                                                             |
 | 03/01  |  1   | https://github.com/NTU-CSX-Project/106-2PythonSampleCode/tree/master/week_1 |
