@@ -1,6 +1,6 @@
 # 106-2
 
-## Python_進階軟體開發專題
+## Python_進階軟體開發專題 :earth_asia: :clock230: :nine: :one: :heart:
 
 - [課程大綱](https://nol.ntu.edu.tw/nol/coursesearch/print_table.php?course_id=H03%2005010&class=&dpt_code=H020&ser_no=76833&semester=106-2&lang=CH)
 
